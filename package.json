@@ -1,0 +1,24 @@
+{
+  "name": "multi-core-thread-executor",
+  "version": "1.0.0",
+  "description": "A JavaScript library for multi-threading and multi-processing.",
+  "main": "src/index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["multi-threading", "multi-processing", "executor", "parallel-processing"],
+  "author": "Raushan Kumar",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raushan79/multi-core-thread-executor.git"
+  }
+}
